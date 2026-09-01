@@ -1,13 +1,13 @@
-# 🧰 UFI-TOOLS
+> [!TIP]
+> **JJC 定制版** - 同步自 kanoqwq/UFI-TOOLS，qmhdl1027 维护
 
-> [!IMPORTANT]
-> 🚀 **JJC 定制版** — 同步自 kanoqwq/UFI-TOOLS，针对某兴随身 WiFi F50/U30 Air 优化
+# 🧰 UFI-TOOLS
 
 > 一款面向某兴随身WIFI（F50/U30 Air）的多功能管理与扩展工具  
 > 支持远程管理、信号监控、系统控制、插件扩展等丰富功能  
 > 同时也提供其他某兴展锐Android手机/平板支持
 
-**[UFI-TOOLS使用说明](https://github.com/qmhdl1027/UFI-TOOLS-JJC/blob/http-server-version/User_Doc.md)**
+**[UFI-TOOLS使用说明](https://github.com/kanoqwq/UFI-TOOLS/blob/http-server-version/User_Doc.md)**
 
 F50 / U30Air 通用安装教程：[📺 B站视频](https://www.bilibili.com/video/BV1qUHpzeEDd)  
 Magisk 模块版本（畅行60 / 云电脑）安装教程：[📺 B站视频](https://www.bilibili.com/video/BV1nsW4zpE1T)
@@ -46,10 +46,10 @@ UFI-TOOLS 提供 **Pocket Edition（PE版）** 与 **完整版本** 两种使用
 
 ## 📘 项目简介
 
-**UFI-TOOLS** 是为 **某兴 + 展锐 / 紫光平台设备** 打造的全能系统管理与扩展框架。  
+**UFI-TOOLS** 是为 **zxe（某兴）+ 展锐 / 紫光平台设备** 打造的全能系统管理与扩展框架。  
 支持在 **便携路由器、手机、平板** 等多种设备上运行，可通过 **Web UI / APK / Magisk 模块** 等方式部署。
 
-- ✅ 适配设备：某兴 F50、U30 Air、畅行60、远航60系列、某兴云电脑平板等  
+- ✅ 适配设备：zxe F50、U30 Air、畅行60、远航60系列、某兴云电脑平板等  
 - 🧩 模块化插件系统  
 - 🌐 支持远程网页控制与设备集群管理  
 - ⚙️ 可作为后台服务运行，支持开机自启  
@@ -105,7 +105,7 @@ UFI-TOOLS 内置 **插件商店**，可在线下载、安装多种功能插件�
 ---
 
 ### 🧠 高级功能
-开启"高级功能"后可解锁系统特权功能：
+开启“高级功能”后可解锁系统特权功能：
 - 获取设备最高系统权限  
 - 访问隐藏接口与底层管理模块  
 - 解锁全部插件商店插件  
@@ -172,9 +172,12 @@ UFI-TOOLS 内置 **插件商店**，可在线下载、安装多种功能插件�
 >
 > | ![ali_pay](./images/ali_pay.jpeg) | ![wechat_pay](./images/zsm.png) |
 > | ------------------------------- | ------------------------------- |
+>
 
 > 欢迎加入群聊一起讨论！
 > TG：[t.me/ufi_tools_chat](https://github.com/kanoqwq/UFI-TOOLS/tree/http-server-version)
 >
 > | ![group2](./images/group_2.jpg) | ![group3](./images/group_3.jpg) |
 > | ------------------------------- | ------------------------------- |
+>
+
